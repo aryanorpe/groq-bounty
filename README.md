@@ -1,4 +1,5 @@
-Groq Bounty: $150 Prize + Chance to be Featured at SC'24 for Winner of Business-Relevant Llama 3.2 Demo
+# Groq Bounty: $150 Prize + Chance to be Featured at SC'24 for Winner of Business-Relevant Llama 3.2 Demo
+
 We're excited to announce a bounty for innovative, business-relevant demos using Llama 3.2 powered by Groq! Showcase your creativity and technical skills for a chance to win $150 to the Groq swag store and get your demo showcased at the Groq booth at SC24 ! 🚀
 
 Bounty Details
